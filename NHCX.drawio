@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T04:51:03.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OsRSiwbHxEFFr3FmvPHS" version="22.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-04T04:51:45.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KgtaBDiMMMExBbZPrBuX" version="22.0.2" type="github" pages="4">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Claim registration">
     <mxGraphModel dx="1908" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="n_Xed9ibIA65ynU_BDhb-4" value="Server Logic" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="360" width="980" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="l9Vu41hiifNTBTkOHgr7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="n_Xed9ibIA65ynU_BDhb-4">
+          <mxGeometry x="25" y="5" width="555" height="425" as="geometry" />
         </mxCell>
         <mxCell id="n_Xed9ibIA65ynU_BDhb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.625;entryY=0;entryDx=0;entryDy=0;" parent="n_Xed9ibIA65ynU_BDhb-4" source="n_Xed9ibIA65ynU_BDhb-7" target="n_Xed9ibIA65ynU_BDhb-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -101,9 +104,6 @@
         </mxCell>
         <mxCell id="2RhHAe2CQzS2Qe744TcT-16" value="Create a New Document in DB" style="rounded=1;whiteSpace=wrap;html=1;" parent="n_Xed9ibIA65ynU_BDhb-4" vertex="1">
           <mxGeometry x="365" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l9Vu41hiifNTBTkOHgr7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=40;" vertex="1" parent="n_Xed9ibIA65ynU_BDhb-4">
-          <mxGeometry x="25" y="5" width="555" height="425" as="geometry" />
         </mxCell>
         <mxCell id="n_Xed9ibIA65ynU_BDhb-3" value="Data Base" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="800" width="980" height="230" as="geometry" />
